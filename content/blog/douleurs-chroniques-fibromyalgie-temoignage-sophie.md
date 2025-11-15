@@ -8,8 +8,6 @@ tags: ["fibromyalgie", "douleur chronique", "massage thérapeutique", "témoigna
 featured_image: "/images/blog/fibromyalgie-massage.jpg"
 ---
 
-# Douleurs Chroniques: Comment Sophie Vit Mieux avec sa Fibromyalgie
-
 *"J'ai 38 ans et la fibromyalgie depuis 5 ans. Longtemps, j'ai cru que ma vie d'avant était terminée. Aujourd'hui, je vis différemment... mais je vis pleinement."*
 
 Ce sont les premiers mots que Sophie me partage, assise dans son salon de Rosemont, un thé à la camomille à la main. Son histoire n'est pas celle d'une guérison miraculeuse - la fibromyalgie ne se guérit pas. C'est l'histoire d'une femme qui a appris à cohabiter avec la douleur chronique et qui a trouvé, dans la massothérapie adaptée, un outil précieux pour reprendre le contrôle de sa vie.

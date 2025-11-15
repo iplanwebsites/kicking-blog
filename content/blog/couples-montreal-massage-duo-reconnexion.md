@@ -8,8 +8,6 @@ tags: ["massage couple", "massage duo", "Montréal", "connexion", "bien-être re
 featured_image: "/images/blog/massage-couple.jpg"
 ---
 
-# Couples de Montréal: Reconnectez Sans Dire un Mot (L'Expérience Massage Duo)
-
 Quand avez-vous passé deux heures complètes avec votre partenaire, sans téléphone, sans télévision, sans conversation, simplement... **présents** l'un à l'autre?
 
 Si vous devez réfléchir longtemps, vous n'êtes pas seuls.

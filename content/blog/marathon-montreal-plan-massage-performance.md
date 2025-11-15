@@ -8,8 +8,6 @@ tags: ["marathon", "course à pied", "massage sportif", "récupération", "prév
 featured_image: "/images/blog/marathon-massage.jpg"
 ---
 
-# Marathon de Montréal 2024: Votre Plan Massage Mois par Mois pour Performer
-
 Le Marathon de Montréal rassemble chaque année plus de 25 000 coureurs, tous animés par le même rêve : franchir cette ligne d'arrivée mythique. Pourtant, la réalité est brutale : **78% des abandons sont liés à des blessures qui auraient pu être évitées**.
 
 Que vous visiez un record personnel ou simplement votre premier 42,2 km, votre arme secrète ne se trouve pas dans vos chaussures dernier cri ou votre montre GPS. Elle réside dans un plan de massothérapie sportive stratégique, calibré au fil des mois pour optimiser votre entraînement.

@@ -8,8 +8,6 @@ tags: ["massage prénatal", "grossesse", "femme enceinte", "Montréal", "bien-ê
 featured_image: "/images/blog/massage-prenatal.jpg"
 ---
 
-# Grossesse à Montréal: Le Guide Trimestre par Trimestre du Massage Prénatal
-
 Quarante semaines. Deux cent quatre-vingts jours. C'est le temps que prend un corps pour créer une nouvelle vie.
 
 Quarante semaines de transformations spectaculaires : votre cœur pompe 50% plus de sang, vos organes se déplacent, vos ligaments s'assouplissent, votre centre de gravité se déplace, et votre colonne vertébrale supporte jusqu'à 15 kilos supplémentaires.
